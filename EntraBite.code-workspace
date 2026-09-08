@@ -1,0 +1,9 @@
+{
+  "folders": [{ "name": "EntraBite", "path": "." }],
+  "settings": {
+    "editor.formatOnSave": true
+  },
+  "extensions": {
+    "recommendations": ["sswg.swift-lang", "timonwong.shellcheck"]
+  }
+}
